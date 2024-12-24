@@ -4,9 +4,9 @@ module.exports = {
     /**
      * Informations à propos du compte Twilio
      */
-    accountSid: '',
-    authToken: '',
-    callerid: '+yourcallerid',
+    accountSid: 'AC447150c3689b4b05d605db8473765f36',
+    authToken: '4e8594fe6a6f40a676863cc2593c82d5',
+    callerid: '++12185432562',
 
     /**
      * Informations à propos de l'API
