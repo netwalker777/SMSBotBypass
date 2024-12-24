@@ -12,7 +12,7 @@ module.exports = {
      * Informations à propos de l'API
      */
     apipassword: 'passwordtochange',
-    serverurl: 'http://yourserverip:1337',
+    serverurl: 'http://41.90.66.17:1337',
 
     /**
      * Informations à propos du webhook discord
